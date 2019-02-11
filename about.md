@@ -16,12 +16,9 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
-#im Brendan, as a 2nd year stuggled with vuepress so i moved to jekyll
-#jekyll 
-#The portfolio, so I recently started doing the portfolio, presentation was abit difficult, but i managed to get jekyll but i havent changed the theme 
-#the  website just need to 
-#overcome my stuggles with public speaking
-#I hope i could use this opportunity for also my intership, my time management is also an issue. 
-#arti
+I am currently a 2nd year engineering student studying a Bachelor of Engineering (Honours) Diploma in Professional Engineering and majoring 
+in software engineering. My currently interests are programming in java, C++, python and red team penetration testing on web applications 
+and cyber security in general. With my experience at UTS, I recently participated in Cyber Security Challenge Australia as the first-year 
+team 2018, UTS Hackathon "Code2Learn" 2018 and ProgComp 2018. 
 
 
